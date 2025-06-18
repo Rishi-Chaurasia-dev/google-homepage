@@ -1,25 +1,17 @@
-# Google Homepage Clone
+# Google Homepage 
 
 A responsive clone of the Google landing page built using **HTML** and **CSS**. This project is designed to replicate the visual layout of Google's homepage while applying modern front-end web development techniques.
 
-## 🚀 Features
-
-- ✅ Clean and minimal layout
-- 📱 Fully responsive design (mobile, tablet, and desktop friendly)
-- 🎯 Pixel-perfect alignment with the original Google homepage
-- 📷 Optimized images for fast loading
-- 💡 Great for practicing HTML and CSS fundamentals
 
 ## 🔧 Technologies Used
 
 - HTML5
 - CSS3 (Flexbox, Media Queries)
 
-## 📸 Demo
+## 📸 Screenshot
+![Screenshot 2025-06-18 220347](https://github.com/user-attachments/assets/7ffcf13b-8b17-4857-8d0f-410d95883b18)
 
-![Google Homepage Clone Screenshot](screenshot.png)  
-*(Replace `screenshot.png` with your actual image path)*
-
+ 
 ## 📂 Project Structure
 
 ```bash
@@ -27,3 +19,4 @@ google-homepage/
 ├── index.html
 ├── style.css
 └── README.md
+
